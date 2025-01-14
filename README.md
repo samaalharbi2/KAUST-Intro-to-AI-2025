@@ -11,15 +11,6 @@ This stage focused on **Introduction to AI** and covered a range of essential to
 3. **Neural Networks** 🧠
 4. **Image Compression** 🖼️
 
-## Projects & Notebooks 📝
-- **Logistic Regression - Football Data** ⚽
-- 
-- **Neural Network - WiFi Sensing** 📶  
-
-- **Linear Regression - Exam** 📉  
-  
----
-
 ### What I Learned 🎓
 This stage was a great mix of **theory** and **hands-on practice**, where I gained:
 - An understanding of **linear and logistic regression** for predictive modeling.
