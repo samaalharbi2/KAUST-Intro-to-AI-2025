@@ -20,5 +20,9 @@ This stage was a great mix of **theory** and **hands-on practice**, where I gain
 I’m excited to continue exploring the world of AI and apply these concepts to more advanced topics in future stages! 🚀
 
 ---
+## Contact 📬
 
-Feel free to check out the notebooks and follow along with the exercises!
+If you have any feedback, suggestions, or questions, feel free to reach out! I'm always open to constructive feedback and happy to help where I can.
+- **LinkedIn**: [Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/sama-alharbi-831753201/))
+
+I’d love to hear from you! 🙂
