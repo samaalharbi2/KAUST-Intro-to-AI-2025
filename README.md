@@ -12,15 +12,12 @@ This stage focused on **Introduction to AI** and covered a range of essential to
 4. **Image Compression** 🖼️
 
 ## Projects & Notebooks 📝
-- **Logistic Regression - Football Data** ⚽  
-  [Copy_of_LogisticRegression_Football_Data_Exam.ipynb](path/to/Copy_of_LogisticRegression_Football_Data_Exam.ipynb)
-
+- **Logistic Regression - Football Data** ⚽
+- 
 - **Neural Network - WiFi Sensing** 📶  
-  [Copy_of_NeuralNetwork_WiFiSensing_Student_Exam.ipynb](path/to/Copy_of_NeuralNetwork_WiFiSensing_Student_Exam.ipynb)
 
 - **Linear Regression - Exam** 📉  
-  [Copy_of_Q3_Linear_Exam.ipynb](path/to/Copy_of_Q3_Linear_Exam.ipynb)
-
+  
 ---
 
 ### What I Learned 🎓
